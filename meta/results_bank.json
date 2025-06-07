@@ -1,0 +1,65 @@
+[
+  {
+    "id": "secret",
+    "title": "Keeping secrets with adults isn’t always safe.",
+    "description": "If someone told you to hide something from your parents or friends, they might be trying to control you. Safe people don’t need you to stay quiet or lie for them.",
+    "tips": [
+      "You are allowed to talk to someone else, even if they told you not to.",
+      "Secrets that make you feel weird or heavy are worth sharing with someone you trust."
+    ]
+  },
+  {
+    "id": "pressure",
+    "title": "You don’t have to say yes just to keep someone happy.",
+    "description": "If someone makes you feel like you’ll get in trouble or disappoint them if you say no, that’s pressure — and it’s not okay.",
+    "tips": [
+      "You’re allowed to have boundaries.",
+      "You’re not responsible for someone else’s feelings."
+    ]
+  },
+  {
+    "id": "image_request",
+    "title": "You don’t have to send photos of yourself to anyone.",
+    "description": "Even if someone asks nicely, requests a selfie, or says it’s just for fun — it’s your choice, and you never owe them anything.",
+    "tips": [
+      "Anyone who really respects you won’t keep asking.",
+      "You can stop responding and talk to someone safe."
+    ]
+  },
+  {
+    "id": "flattery",
+    "title": "It’s okay to like compliments — but some are too much.",
+    "description": "If someone says you’re special, mature, or different from others, they might be trying to lower your guard. You’re allowed to enjoy kindness, but also question it.",
+    "tips": [
+      "Someone who truly likes you won’t make things confusing or uncomfortable.",
+      "Feeling flattered and feeling weird can happen at the same time — that doesn’t make it your fault."
+    ]
+  },
+  {
+    "id": "privacy",
+    "title": "Some things shouldn’t be shared — especially with adults.",
+    "description": "If someone shows you private things (like pictures or their body), that’s not okay. They might be trying to test your reaction or break a boundary.",
+    "tips": [
+      "You’re allowed to feel shocked or unsure. That’s a normal reaction.",
+      "Please talk to someone about it — even if you didn’t stop it at the time."
+    ]
+  },
+  {
+    "id": "uncertainty",
+    "title": "It’s okay to not remember — or not be sure yet.",
+    "description": "Sometimes our brains protect us from things we’re not ready to think about. That doesn’t mean you’re making it up. It just means you’re still figuring it out.",
+    "tips": [
+      "You don’t have to explain everything today.",
+      "You can talk to someone safe when you feel ready."
+    ]
+  },
+  {
+    "id": "touch",
+    "title": "Nobody should touch you in a way that feels wrong.",
+    "description": "Even if they act nice or say it’s normal, your body is yours. If something made you uncomfortable, it matters.",
+    "tips": [
+      "It’s okay to say no, even to adults or family.",
+      "What felt weird to you is worth paying attention to."
+    ]
+  }
+]

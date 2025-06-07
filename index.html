@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Safecheck</title>
+  <link rel="stylesheet" href="CSS/style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <a href="index.html" class="logo-container"><img src="assets/images/logo/logo_white.png" alt="Safecheck Logo" class="logo" /></a>
+  </header>
+
+    <main class="home-content">
+    <section class="quiz-intro">
+        <h2>Not sure what happened?</h2>
+        <h1 class="tagline">Find out what felt wrong, and what to do next.</h1>
+        <p>Let’s check together. These quizzes are safe and anonymous.</p>
+    </section>
+
+    <section class="quiz-buttons focus">
+        <button onclick="startQuiz('online')" class="quiz-btn blue">
+        Online Behavior  
+        <span class="quiz-desc">Messages, Chats, Games, Social media</span>
+        </button>
+
+        <button onclick="startQuiz('irl')" class="quiz-btn pink">
+        In-Person Behavior  
+        <span class="quiz-desc">School, Home, Adults or Friends near you</span>
+        </button>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+      <nav class="main-nav">
+        <a href="info.html">What Is This Site</a>
+        <a href="help.html">Get Help</a>
+        <a href="about.html">About</a>
+      </nav>
+    <p class="copyright">© 2025 Safecheck – No tracking. No data collected.</p>
+  </footer>
+
+
+    <script>
+        function startQuiz(type) {
+            window.location.href = `quizz.html?quiz=${type}`;
+        }
+    </script>
+  <script src="JS/script.js"></script>
+</body>
+</html>

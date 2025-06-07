@@ -1,0 +1,389 @@
+[
+  {
+    "question": "Did someone touch you in a way that felt weird or uncomfortable?",
+    "clarification": "Even if they said it was a joke, or made it seem normal.",
+    "answers": [
+      {
+        "text": "Yes, sometimes",
+        "tags": [],
+        "responseId": "irl_0_0",
+        "resultId": "touch"
+      },
+      {
+        "text": "Yes, often",
+        "tags": [
+          "frequency"
+        ],
+        "responseId": "irl_0_1",
+        "resultId": "touch"
+      },
+      {
+        "text": "No, never",
+        "tags": [],
+        "responseId": "irl_0_2",
+        "resultId": "touch"
+      },
+      {
+        "text": "I don't remember",
+        "tags": [
+          "uncertainty"
+        ],
+        "responseId": "irl_0_3",
+        "resultId": "touch"
+      }
+    ]
+  },
+  {
+    "question": "Did someone look at your body in a way that made you feel nervous, weird or uncomfortable?",
+    "clarification": "Like staring too long, or observing you when they shouldn't.",
+    "answers": [
+      {
+        "text": "Yes, sometimes",
+        "tags": [],
+        "responseId": "irl_1_0",
+        "resultId": "comment"
+      },
+      {
+        "text": "Yes, often",
+        "tags": [
+          "frequency"
+        ],
+        "responseId": "irl_1_1",
+        "resultId": "comment"
+      },
+      {
+        "text": "No, never",
+        "tags": [],
+        "responseId": "irl_1_2",
+        "resultId": "comment"
+      },
+      {
+        "text": "I don't remember",
+        "tags": [
+          "uncertainty"
+        ],
+        "responseId": "irl_1_3",
+        "resultId": "comment"
+      }
+    ]
+  },
+  {
+    "question": "Did someone ask you to sit on their lap, cuddle, or hug when you didn’t want to?",
+    "clarification": "Even if they acted like it was just being 'friendly' or said 'that's what friends do.'",
+    "answers": [
+      {
+        "text": "Yes, sometimes",
+        "tags": [],
+        "responseId": "irl_2_0",
+        "resultId": "pressure"
+      },
+      {
+        "text": "Yes, often",
+        "tags": [
+          "frequency"
+        ],
+        "responseId": "irl_2_1",
+        "resultId": "pressure"
+      },
+      {
+        "text": "Yes, only when we were alone",
+        "tags": [
+          "alone"
+        ],
+        "responseId": "irl_2_2",
+        "resultId": "pressure"
+      },
+      {
+        "text": "No, never",
+        "tags": [],
+        "responseId": "irl_2_3",
+        "resultId": "pressure"
+      },
+      {
+        "text": "I don't remember",
+        "tags": [
+          "uncertainty"
+        ],
+        "responseId": "irl_2_4",
+        "resultId": "pressure"
+      }
+    ]
+  },
+  {
+    "question": "Did someone make comments about your body or growing up?",
+    "clarification": "Like saying ‘You’re growing fast’ or ‘You’re almost a woman/man.’",
+    "answers": [
+      {
+        "text": "Yes, sometimes",
+        "tags": [],
+        "responseId": "irl_3_0",
+        "resultId": "comment"
+      },
+      {
+        "text": "Yes, often",
+        "tags": [
+          "frequency"
+        ],
+        "responseId": "irl_3_1",
+        "resultId": "comment"
+      },
+      {
+        "text": "No, never",
+        "tags": [],
+        "responseId": "irl_3_2",
+        "resultId": "comment"
+      },
+      {
+        "text": "I don't remember",
+        "tags": [
+          "uncertainty"
+        ],
+        "responseId": "irl_3_3",
+        "resultId": "comment"
+      }
+    ]
+  },
+  {
+    "question": "Did someone try to be alone with you a lot?",
+    "clarification": "Like asking you to come into their room, or go places with just them.",
+    "answers": [
+      {
+        "text": "Yes, we were alone sometimes",
+        "tags": [
+          "alone"
+        ],
+        "responseId": "irl_4_0",
+        "resultId": "alone"
+      },
+      {
+        "text": "Yes, but I refused",
+        "tags": [],
+        "responseId": "irl_4_1",
+        "resultId": "alone"
+      },
+      {
+        "text": "No, never",
+        "tags": [],
+        "responseId": "irl_4_2",
+        "resultId": "alone"
+      },
+      {
+        "text": "I don't remember",
+        "tags": [
+          "uncertainty"
+        ],
+        "responseId": "irl_4_3",
+        "resultId": "alone"
+      }
+    ]
+  },
+  {
+    "question": "Did they make you promise not to tell anyone what happened or what they said?",
+    "clarification": "That includes secrets between ‘just us’, even if you are friends.",
+    "answers": [
+      {
+        "text": "Yes",
+        "tags": [],
+        "responseId": "irl_5_0",
+        "resultId": "secret"
+      },
+      {
+        "text": "No",
+        "tags": [],
+        "responseId": "irl_5_1",
+        "resultId": "secret"
+      },
+      {
+        "text": "I don't remember",
+        "tags": [
+          "uncertainty"
+        ],
+        "responseId": "irl_5_2",
+        "resultId": "secret"
+      }
+    ]
+  },
+  {
+    "question": "Did someone show you things you weren’t supposed to see?",
+    "clarification": "Like private pictures, adult stuff, or anything that made you feel uncomfortable.",
+    "answers": [
+      {
+        "text": "Yes, private pictures",
+        "tags": [
+          "image_request",
+          "privacy"
+        ],
+        "responseId": "irl_6_0",
+        "resultId": "privacy"
+      },
+      {
+        "text": "Yes, adult stuff",
+        "tags": [
+          "privacy",
+          "age_gap"
+        ],
+        "responseId": "irl_6_1",
+        "resultId": "privacy"
+      },
+      {
+        "text": "Yes, their own body",
+        "tags": [
+          "comment",
+          "privacy"
+        ],
+        "responseId": "irl_6_2",
+        "resultId": "privacy"
+      },
+      {
+        "text": "No, not really",
+        "tags": [],
+        "responseId": "irl_6_3",
+        "resultId": "privacy"
+      },
+      {
+        "text": "I don't remember",
+        "tags": [
+          "uncertainty"
+        ],
+        "responseId": "irl_6_4",
+        "resultId": "privacy"
+      }
+    ]
+  },
+  {
+    "question": "Did they treat you differently from others, like you were their favorite?",
+    "clarification": "Maybe giving you gifts randomly, too much attention, or calling you ‘special.’",
+    "answers": [
+      {
+        "text": "Yes, gifts",
+        "tags": [
+          "manipulation"
+        ],
+        "responseId": "irl_7_0",
+        "resultId": "flattery"
+      },
+      {
+        "text": "Yes, attention",
+        "tags": [
+          "manipulation"
+        ],
+        "responseId": "irl_7_1",
+        "resultId": "flattery"
+      },
+      {
+        "text": "No, never",
+        "tags": [],
+        "responseId": "irl_7_2",
+        "resultId": "flattery"
+      },
+      {
+        "text": "I don't remember",
+        "tags": [
+          "uncertainty"
+        ],
+        "responseId": "irl_7_3",
+        "resultId": "flattery"
+      }
+    ]
+  },
+  {
+    "question": "Did you ever feel nervous, scared, or confused around them, but didn’t know why?",
+    "clarification": "Even if nothing really “happened”, sometimes, your intuition protects you.",
+    "answers": [
+      {
+        "text": "Yes, I don't know why",
+        "tags": [
+          "uncertainty"
+        ],
+        "responseId": "irl_8_0",
+        "resultId": "uncertainty"
+      },
+      {
+        "text": "Yes, I know why",
+        "tags": [],
+        "responseId": "irl_8_1",
+        "resultId": "uncertainty"
+      },
+      {
+        "text": "No",
+        "tags": [],
+        "responseId": "irl_8_2",
+        "resultId": "uncertainty"
+      },
+      {
+        "text": "I don't remember",
+        "tags": [
+          "uncertainty"
+        ],
+        "responseId": "irl_8_3",
+        "resultId": "uncertainty"
+      }
+    ]
+  },
+  {
+    "question": "Did you feel like you couldn’t say no, or that you had to be nice to keep them happy?",
+    "clarification": "Like you’d get in trouble, or they’d be mad or upset with you.",
+    "answers": [
+      {
+        "text": "Yes, most of the time",
+        "tags": [],
+        "responseId": "irl_9_0",
+        "resultId": "pressure"
+      },
+      {
+        "text": "Yes, sometimes",
+        "tags": [],
+        "responseId": "irl_9_1",
+        "resultId": "pressure"
+      },
+      {
+        "text": "No",
+        "tags": [],
+        "responseId": "irl_9_2",
+        "resultId": "pressure"
+      },
+      {
+        "text": "I don't remember",
+        "tags": [
+          "uncertainty"
+        ],
+        "responseId": "irl_9_3",
+        "resultId": "pressure"
+      }
+    ]
+  },
+  {
+    "question": "Did someone ask you to touch them, even if you didn’t want to?",
+    "clarification": "Like holding hands, sitting close, or anything that made you feel weird or uncomfortable.",
+    "answers": [
+      {
+        "text": "Yes, often",
+        "tags": [
+          "frequency"
+        ],
+        "responseId": "irl_10_0",
+        "resultId": "manipulation"
+      },
+      {
+        "text": "Yes, once",
+        "tags": [],
+        "responseId": "irl_10_1",
+        "resultId": "manipulation"
+      },
+      {
+        "text": "No, never",
+        "tags": [],
+        "responseId": "irl_10_2",
+        "resultId": "manipulation"
+      },
+      {
+        "text": "I don't remember",
+        "tags": [
+          "uncertainty"
+        ],
+        "responseId": "irl_10_3",
+        "resultId": "manipulation"
+      }
+    ]
+  }
+]

@@ -1,0 +1,372 @@
+[
+  {
+    "question": "Did someone ask you to keep a secret?",
+    "details": "Like telling you not to share something with your parents or friends.",
+    "answers": [
+      {
+        "text": "Yes, once",
+        "tags": [],
+        "responseId": "online_0_0",
+        "resultId": "secret"
+      },
+      {
+        "text": "Yes, several times",
+        "tags": [],
+        "responseId": "online_0_1",
+        "resultId": "secret"
+      },
+      {
+        "text": "No, never",
+        "tags": [],
+        "responseId": "online_0_2",
+        "resultId": "secret"
+      },
+      {
+        "text": "I don't remember",
+        "tags": [
+          "uncertainty"
+        ],
+        "responseId": "online_0_3",
+        "resultId": "secret"
+      }
+    ]
+  },
+  {
+    "question": "Did they say things that made you feel special or chosen?",
+    "details": "Maybe by saying things like: “You’re not like other people” or “You’re the only one I trust.”",
+    "answers": [
+      {
+        "text": "Yes, sometimes",
+        "tags": [],
+        "responseId": "online_1_0",
+        "resultId": "flattery"
+      },
+      {
+        "text": "Yes, often",
+        "tags": [
+          "frequency"
+        ],
+        "responseId": "online_1_1",
+        "resultId": "flattery"
+      },
+      {
+        "text": "No, never",
+        "tags": [],
+        "responseId": "online_1_2",
+        "resultId": "flattery"
+      },
+      {
+        "text": "I don't remember",
+        "tags": [
+          "uncertainty"
+        ],
+        "responseId": "online_1_3",
+        "resultId": "flattery"
+      }
+    ]
+  },
+  {
+    "question": "Did they send pictures, videos, or links that felt weird or too private?",
+    "details": "Like something that felt too personal, without you asking for it.",
+    "answers": [
+      {
+        "text": "Yes, once",
+        "tags": [],
+        "responseId": "online_2_0",
+        "resultId": "privacy"
+      },
+      {
+        "text": "Yes, more than 5 times",
+        "tags": [
+          "frequency"
+        ],
+        "responseId": "online_2_1",
+        "resultId": "privacy"
+      },
+      {
+        "text": "No, never",
+        "tags": [],
+        "responseId": "online_2_2",
+        "resultId": "privacy"
+      },
+      {
+        "text": "I don't remember",
+        "tags": [
+          "uncertainty"
+        ],
+        "responseId": "online_2_3",
+        "resultId": "privacy"
+      }
+    ]
+  },
+  {
+    "question": "Did they want to talk to you all the time, or get upset when you didn’t reply?",
+    "details": "Like spamming, guilt-tripping, or “Why did you leave me on read?”",
+    "answers": [
+      {
+        "text": "All the time",
+        "tags": [
+          "frequency"
+        ],
+        "responseId": "online_3_0",
+        "resultId": "pressure"
+      },
+      {
+        "text": "A few times a week",
+        "tags": [
+          "frequency"
+        ],
+        "responseId": "online_3_1",
+        "resultId": "pressure"
+      },
+      {
+        "text": "Rarely",
+        "tags": [],
+        "responseId": "online_3_2",
+        "resultId": "pressure"
+      },
+      {
+        "text": "I don't remember",
+        "tags": [
+          "uncertainty"
+        ],
+        "responseId": "online_3_3",
+        "resultId": "pressure"
+      }
+    ]
+  },
+  {
+    "question": "Did they ask for a photo of you?",
+    "details": "Any kind of personal photo from you, like “show me your face” or “what are you wearing?”",
+    "answers": [
+      {
+        "text": "Yes, I sent some",
+        "tags": [],
+        "responseId": "online_4_0",
+        "resultId": "image_request"
+      },
+      {
+        "text": "Yes, I didn't send any",
+        "tags": [],
+        "responseId": "online_4_1",
+        "resultId": "image_request"
+      },
+      {
+        "text": "No, never",
+        "tags": [],
+        "responseId": "online_4_2",
+        "resultId": "image_request"
+      },
+      {
+        "text": "I don't remember",
+        "tags": [
+          "uncertainty"
+        ],
+        "responseId": "online_4_3",
+        "resultId": "image_request"
+      }
+    ]
+  },
+  {
+    "question": "Did they say things about your body, or comment on how you look in a strange way?",
+    "details": "Like “You’re growing up fast” or “You’re so hot/mature for your age.”",
+    "answers": [
+      {
+        "text": "Yes",
+        "tags": [],
+        "responseId": "online_5_0",
+        "resultId": "comment"
+      },
+      {
+        "text": "No",
+        "tags": [],
+        "responseId": "online_5_1",
+        "resultId": "comment"
+      },
+      {
+        "text": "I don't remember",
+        "tags": [
+          "uncertainty"
+        ],
+        "responseId": "online_5_2",
+        "resultId": "comment"
+      }
+    ]
+  },
+  {
+    "question": "Did something about the way they talked feel strange? Even if you don't know why?",
+    "details": "Did they talk to you like someone your age or like an adult? Was the conversation related to the game/app you were using?",
+    "answers": [
+      {
+        "text": "They sounded normal",
+        "tags": [],
+        "responseId": "online_6_0",
+        "resultId": "uncertainty"
+      },
+      {
+        "text": "They sounded strange",
+        "tags": [],
+        "responseId": "online_6_1",
+        "resultId": "uncertainty"
+      },
+      {
+        "text": "They were insistent",
+        "tags": [],
+        "responseId": "online_6_2",
+        "resultId": "uncertainty"
+      },
+      {
+        "text": "They were aggressive",
+        "tags": [],
+        "responseId": "online_6_3",
+        "resultId": "uncertainty"
+      },
+      {
+        "text": "I don't remember",
+        "tags": [
+          "uncertainty"
+        ],
+        "responseId": "online_6_4",
+        "resultId": "uncertainty"
+      }
+    ]
+  },
+  {
+    "question": "Did they ask you to use a different app or account to talk?",
+    "details": "Like “Let’s talk on Snap” or “Add me here instead.”",
+    "answers": [
+      {
+        "text": "Yes",
+        "tags": [],
+        "responseId": "online_7_0",
+        "resultId": "app_switch"
+      },
+      {
+        "text": "No",
+        "tags": [],
+        "responseId": "online_7_1",
+        "resultId": "app_switch"
+      },
+      {
+        "text": "I don't remember",
+        "tags": [
+          "uncertainty"
+        ],
+        "responseId": "online_7_2",
+        "resultId": "app_switch"
+      }
+    ]
+  },
+  {
+    "question": "Do you know how old they are? Are they a lot older than you?",
+    "details": "You don’t need their exact age. Just do they feel and talk like an adult?",
+    "answers": [
+      {
+        "text": "Older than me",
+        "tags": [
+          "age_gap"
+        ],
+        "responseId": "online_8_0",
+        "resultId": "age_gap"
+      },
+      {
+        "text": "Same age than me or younger",
+        "tags": [],
+        "responseId": "online_8_1",
+        "resultId": "age_gap"
+      },
+      {
+        "text": "I don't know",
+        "tags": [
+          "uncertainty"
+        ],
+        "responseId": "online_8_2",
+        "resultId": "age_gap"
+      }
+    ]
+  },
+  {
+    "question": "Did they say anything that made you feel weird in your stomach, nervous, guilty or scared?",
+    "details": "Even if you didn’t tell anyone, it still counts.",
+    "answers": [
+      {
+        "text": "Yes, they made me nervous",
+        "tags": [
+          "pressure"
+        ],
+        "responseId": "online_9_0",
+        "resultId": "threat"
+      },
+      {
+        "text": "Yes, they were threatening",
+        "tags": [
+          "threat"
+        ],
+        "responseId": "online_9_1",
+        "resultId": "threat"
+      },
+      {
+        "text": "No, not really",
+        "tags": [],
+        "responseId": "online_9_2",
+        "resultId": "threat"
+      },
+      {
+        "text": "I don't remember",
+        "tags": [
+          "uncertainty"
+        ],
+        "responseId": "online_9_3",
+        "resultId": "threat"
+      }
+    ]
+  },
+  {
+    "question": "Did they ask for personal info about you, like your real name, school, or where you live?",
+    "details": "Even if they were nice about it — some things are private for a reason.",
+    "answers": [
+      {
+        "text": "Yes, my name",
+        "tags": [
+          "info_request"
+        ],
+        "responseId": "online_10_0",
+        "resultId": "info_request"
+      },
+      {
+        "text": "Yes, my school",
+        "tags": [
+          "info_request"
+        ],
+        "responseId": "online_10_1",
+        "resultId": "info_request"
+      },
+      {
+        "text": "Yes, my house",
+        "tags": [],
+        "responseId": "online_10_2",
+        "resultId": "info_request"
+      },
+      {
+        "text": "Yes, something else",
+        "tags": [],
+        "responseId": "online_10_3",
+        "resultId": "info_request"
+      },
+      {
+        "text": "No",
+        "tags": [],
+        "responseId": "online_10_4",
+        "resultId": "info_request"
+      },
+      {
+        "text": "I don't remember",
+        "tags": [
+          "uncertainty"
+        ],
+        "responseId": "online_10_5",
+        "resultId": "info_request"
+      }
+    ]
+  }
+]
